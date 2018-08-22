@@ -1,0 +1,215 @@
+body {
+	background-color: #fff1ac;
+}
+
+/**头部样式**/
+#head img {
+	width: 100%;
+}
+
+
+/**company**/
+#head .company {
+	width: 8.32rem;
+	height: 3rem;
+	margin-left: 0.853rem;
+	margin-top: 0.667rem;
+	margin-bottom: 0.533rem;
+	border: 1px solid red;	
+	border-radius: 0.5rem;
+	border-style: dashed;
+}
+
+#head .company .top {
+	margin-left: 0.333rem;
+	margin-top: 0.267rem;
+	font-weight: 900;
+	font-size: 0.38rem;
+	color: #be1724;
+}
+
+#head .company .top span {
+	display: inline-block;
+	width: 1.54rem;
+	float: left;
+}
+
+#head .company .top p {
+	width: 6rem;
+	float: left;
+}
+
+#head .company .bottom {
+	margin-left: 0.333rem;
+	margin-top: 0.267rem;
+	font-size: 0.38rem;
+	color: #be1724;
+}
+
+#head .company .bottom span {
+	display: inline-block;
+	width: 1.54rem;
+	float: left;
+}
+
+#head .company .bottom p {
+	width: 6rem;
+	float: left;
+}
+
+
+#head .concent li h1 {
+	color: #fff;
+	background-color: #a9973c;
+	width: 2rem;
+	height: 0.8rem;
+	font-size: 0.4rem;
+	font-weight: 900;
+	line-height: 0.8rem;
+	border-top-right-radius: 0.4rem;
+	border-bottom-right-radius: 0.4rem;
+	padding-left: 0.667rem;
+}
+
+#head .concent li .main {
+	width: 9rem;
+	margin-left: 0.5rem;
+	margin-top: 0.267rem;
+	margin-bottom: 0.32rem;
+	font-size: 0.34rem;
+	color: #7b7b49;
+}
+
+#head .concent hr {
+	width: 100%;
+	height: 0.173rem;
+	border: 0px;
+	background-color: #9d8509; 
+}
+
+
+
+#main .time {
+	width: 100%;
+	height: 2.133rem;
+	text-align: center;
+}
+
+#main .time h1 {
+	font-size: 0.5rem;
+	font-weight: 900;
+	margin-top: 0.667rem;
+}
+
+#main .time p {
+	font-size: 0.36rem;
+	margin-top: 0.25rem;
+} 
+
+#main .list {
+	background-color: #ecdb87;
+}
+
+#main .list .serach {
+	width: 100%;
+	height: 1.733rem;
+}
+
+#main .list .serach input {
+	display: inline-block;
+	border: 0px;
+	width: 4.8rem;
+	height: 0.933rem;
+	margin-top: 0.267rem;
+	margin-left: 1.733rem;
+	background-color: #fff;
+	border-top-left-radius: 0.2rem;
+	border-bottom-left-radius: 0.2rem;
+	padding-left: 0.4rem;
+	color: #cccccc;
+	font-size: 0.32rem;
+}
+
+#main .list .serach span {
+	display: inline-block;
+	width: 1.6rem;
+	height: 0.933rem;
+	text-align: center;
+	line-height: 0.933rem;
+	color: #fff;
+	background-color: #9d8509;
+	border-bottom-right-radius: 0.2rem;
+	border-top-right-radius: 0.2rem;
+	position: relative;
+	right: 0.13rem;
+}
+
+#main .list .num {
+	display: inline-block;
+	width: 1.433rem;
+	height: 0.667rem;
+	border-bottom-right-radius: 0.267rem;
+	background-color: #c13418;
+	position: relative;
+	top: 0.66rem;
+	color: #fff;
+	line-height: 0.667rem;
+	padding-left: 0.3rem;
+}
+
+#main .list .rank {
+	position: relative;
+	top: 0.3rem;
+}
+
+#main .list .rank .left {
+	display: inline-block;
+	background: url(../image/rank.png);
+	width: 5.333rem;
+	height: 0.96rem;
+	background-size: 5.333rem 0.96rem;
+	display: flex;
+	justify-content: space-around;
+	line-height: 0.96rem;
+	float: left;
+}
+
+#main .list .rank .left p {
+	margin-top: 0.04rem;
+	height: 0.4rem;
+	line-height: 0.4rem;
+	text-align: center;
+	color: #fff;
+}
+
+#main .list .rank .right {
+	float: left;
+	display: inline-block;
+	margin-left: 0.3rem;
+	width: 3rem;
+	height: 0.96rem;
+	background-color: #c13418;
+	color: #fff;
+	border-radius: 0.2rem;
+	line-height: 0.96rem;
+	text-align: center;
+}
+
+#main .list img {
+	height: 4.8rem;
+	display: block;
+	margin: 0 auto;
+	
+}
+
+#addd {
+	background-color: #fff;
+	width: 8.6rem;
+}
+
+#main .list li {
+	height: 6.0rem;
+	
+	margin-left: 0.667rem;
+	margin-bottom: 1.6rem;
+}

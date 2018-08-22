@@ -1,0 +1,95 @@
+body {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+#work_main {
+	width: 100%;
+	height: 100%;
+	background-color: #f6f6f6;
+}
+
+#work_main li {
+	width: 100%;
+	height: 1.067rem;
+	background-color: #fff;
+	font-size: 0.36rem;
+	font-weight: 600;
+	line-height: 1.067rem;
+	margin-bottom: 1px;
+
+}
+
+#work_main li p {
+	float: left;
+	display: inline-block;
+	width: 1.8rem;
+	padding-left: 0.4rem;
+}
+
+#work_main li input {
+	float: left;
+	display: inline-block;
+	width: 6.667rem;
+	border: 0px;
+	height: 1.067rem;
+	color: #999;
+}
+
+#work_main .add {
+	background-color: #f6f6f6;
+}
+
+#work_main .add p {
+	height: 0.933rem;
+	margin-bottom: 1px;
+	line-height: 0.933rem;
+	padding-left: 0.4rem;
+	background-color: #fff;
+	font-size: 0.36rem;
+	font-weight: 600;
+}
+
+#work_main .add .img {
+	margin-top: 0.533rem;
+}
+
+#work_main .add li {
+	width: 100%;
+	height: 1.067rem;
+	background-color: #fff;
+	font-size: 0.36rem;
+	font-weight: 600;
+	line-height: 1.067rem;
+	margin-bottom: 1px;
+}
+
+#work_main .add .img img {
+	display: block;
+	width: 8.0rem;
+	height: 3.733rem;
+	margin: 0 auto;
+	margin-top: 0.533rem;
+}
+
+#work_main .add .img .close {
+	width: 0.667rem;
+	height: 0.667rem;
+	position: relative;
+	left: 3.67rem;
+	bottom: 8.5rem;
+}
+
+#work_main .add .add1 {
+	height: 3rem;
+}
+
+#work_main .add .add1 img{
+	width: 8.0rem;
+	height: 1.067rem;
+	display: block;
+	margin: 0 auto;
+	margin-top: 1.6rem;
+	margin-bottom: 1rem;
+}

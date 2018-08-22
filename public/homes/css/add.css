@@ -1,0 +1,26 @@
+#add {
+	width: 8.667rem;
+	height: 4.0rem;
+	margin: 0 auto;
+}
+
+
+#add input {
+	display: block;
+	margin: 0 auto;
+	width: 5rem;
+	height: 1rem;
+	font-size: 0.4rem;
+	color: #fff;
+	border: 0px;
+	background-color: #9d8509;
+	border-radius: 0.17rem;
+	margin-top: 0.5rem;
+}
+
+#add1 {
+	position: relative;
+	top: 0.2rem;
+	display: inline-block;
+	width: 0.1rem;
+}
