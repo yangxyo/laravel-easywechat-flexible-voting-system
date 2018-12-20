@@ -1,5 +1,5 @@
-![首页 -c600](home.jpg)
-![后台 -c600](back.png)
+<div align=center><img width="250" src="home.jpg"/></div>
+<div align=center><img width="250" src="back.png"/></div>
 ## 每日仅允许投一票
 每次投票便记入投票表中，
 
