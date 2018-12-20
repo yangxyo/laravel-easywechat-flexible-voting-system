@@ -1,5 +1,5 @@
 <div align=center><img width="550" src="home.jpg"/></div>
-<div align=center><img width="550" src="back.png"/></div>
+[后台](back.png)
 ## 每日仅允许投一票
 每次投票便记入投票表中，
 
